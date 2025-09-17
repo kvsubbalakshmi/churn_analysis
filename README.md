@@ -54,3 +54,8 @@ Services:
 - End-to-end BI pipeline (Excel → MySQL → Power BI)
 - Customer churn analytics & KPI monitoring
 - Data storytelling with interactive dashboards
+
+### Dashboard
+![Dashboard Preview](./Dashboard.png)
+
+![Dashboard Preview](./Tooltip.png)
